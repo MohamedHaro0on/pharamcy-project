@@ -1,0 +1,39 @@
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI.dll
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PharmacySystem.csprojAssemblyReference.cache
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HomePage.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PharmacySystem.csproj.GenerateResource.cache
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PharmacySystem.csproj.CoreCompileInputs.cache
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PharmacySystem.csproj.CopyComplete
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SyndicateForm.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InventoryForm.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MedicineStockForm.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MedicationReportForm.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartPage.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\bin\Debug\WindowsFormsApp1.exe
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\bin\Debug\Guna.UI.dll
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\PharmacySystem.csprojAssemblyReference.cache
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\WindowsFormsApp1.StartPage.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\WindowsFormsApp1.MedicationReportForm.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\WindowsFormsApp1.MedicineStockForm.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\WindowsFormsApp1.SyndicateForm.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\WindowsFormsApp1.InventoryForm.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\WindowsFormsApp1.HomePage.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\PharmacySystem.csproj.GenerateResource.cache
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\PharmacySystem.csproj.CoreCompileInputs.cache
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\PharmacySystem.csproj.CopyComplete
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\WindowsFormsApp1.exe
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\WindowsFormsApp1.BillingForm.resources

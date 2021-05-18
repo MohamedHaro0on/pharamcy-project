@@ -1,0 +1,12 @@
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI.dll
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PharmacyMainPage.csprojAssemblyReference.cache
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HomePage.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PharmacyMainPage.csproj.GenerateResource.cache
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PharmacyMainPage.csproj.CoreCompileInputs.cache
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\PharmacyMainPage.csproj.CopyComplete
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
