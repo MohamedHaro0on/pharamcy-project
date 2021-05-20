@@ -37,3 +37,22 @@ C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\Pharma
 C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\WindowsFormsApp1.exe
 C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\GRAPHICS\source\repos\WindowsFormsApp1\Pharmacy System\obj\Debug\WindowsFormsApp1.BillingForm.resources
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\PharmacySystem.csprojAssemblyReference.cache
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\WindowsFormsApp1.BillingForm.resources
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\WindowsFormsApp1.StartPage.resources
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\WindowsFormsApp1.MedicationReportForm.resources
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\WindowsFormsApp1.MedicineStockForm.resources
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\WindowsFormsApp1.SyndicateForm.resources
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\WindowsFormsApp1.InventoryForm.resources
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\WindowsFormsApp1.LoginForm.resources
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\WindowsFormsApp1.HomePage.resources
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\PharmacySystem.csproj.GenerateResource.cache
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\PharmacySystem.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\PharmacySystem.csproj.CopyComplete
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mohamed Haroon\OneDrive\Desktop\C# Projects\pharamcy-project\obj\Debug\WindowsFormsApp1.EmpLabel.resources
